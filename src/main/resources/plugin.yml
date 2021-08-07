@@ -1,0 +1,7 @@
+name: RandomDamageEffect
+main: me.ezpzstreamz.rde.RandomDamageEffect
+version: 1.0
+api-version: 1.17
+author: EzPzStreamz
+prefix: RPE
+description: Applies a random potion effect on damage.

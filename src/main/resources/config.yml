@@ -1,0 +1,7 @@
+potion:
+  time:
+    min: 30
+    max: 60
+  amp:
+    min: 1
+    max: 4
